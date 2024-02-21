@@ -1,0 +1,5 @@
+﻿  recieptapp.cpp
+C:\Users\AGBOH TAOPHEEQ\sources\C++codes\recieptapp\recieptapp.cpp(44,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\AGBOH TAOPHEEQ\sources\C++codes\recieptapp\recieptapp.cpp(72,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\AGBOH TAOPHEEQ\sources\C++codes\recieptapp\recieptapp.cpp(100,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  recieptapp.vcxproj -> C:\Users\AGBOH TAOPHEEQ\sources\C++codes\recieptapp\x64\Debug\recieptapp.exe
